@@ -1,2 +1,2 @@
 # Mr-Nin.github.io
-Mrnin's wonderland
+Mrnin's cool website
