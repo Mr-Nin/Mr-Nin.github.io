@@ -1,14 +1,14 @@
+header {
+    background: #e29a0b;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
 body {
     font-family: Helvetica;
     margin: 0;
     padding: 0;
     text-align: left;
     background-color: #f4f4f4;
-}
-
-header {
-    background: #e29a0b;
-    color: white;
-    padding: 20px;
-    text-align: center;
 }
